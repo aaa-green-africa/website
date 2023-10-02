@@ -1,0 +1,951 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+-->
+<!doctype html>
+<html lang="de-DE">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="msapplication-TileImage" content="assets/image/android-chrome-192x192.png" />
+  <meta name="description" content="Unsere Mission: Bäume pflanzen in Afrika gegen die Klimaerwärmung. Das schafft Lebensgrundlagen für Mensch und Tier. Spenden Sie jetzt für mehr Wald in Afrika!"/>
+  <title> Bäume pflanzen in Afrika - AAA African Afforestation Association e.V. </title>
+  <link rel="icon" type="image/x-icon" href="assets/image/favicon.ico">
+
+  <!-- Template CSS -->
+  <link rel="stylesheet" href="assets/css/style-starter.css">
+  <!-- Template CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="//fonts.googleapis.com/css?family=Muli:300,300i,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,300i,400,500,700,900&display=swap" rel="stylesheet">
+  <!-- Template CSS -->
+
+</head>
+<body>
+<div class="gtranslate_wrapper"></div>
+<script>window.gtranslateSettings = {"default_language":"de","detect_browser_language":true,"languages":["de","fr","it","es","nl","da","en"],"wrapper_selector":".gtranslate_wrapper","switcher_vertical_position":"top","float_switcher_open_direction":"bottom","flag_style":"3d"}</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+<!--/top-header-content-->
+<section class="w3l-top-header-content">
+	<div class="hny-top-menu">
+		<div class="top-hd">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="social-top col-md-7">
+						
+						<li><a href="https://www.facebook.com/aaadenmerk/"><span class="fa fa-facebook"></span></a></li>
+						<li><a href="https://twitter.com/aaa_org"><span class="fa fa-twitter"></span></a></li>
+						<li><a href="https://de.linkedin.com/in/light-aboetaka-39a21127"><span class="fa fa-linkedin"></span></a> </li>
+					</ul>
+					<ul class="accounts col-md-5">
+						<li class="top_li"><span class="fa fa-mobile"></span><a href="tel:+49 (0) 211- 977 142 76">+49 (0) 211- 977 142 76</a>
+						</li>
+
+						<li class="top_li mr-lg-0"><span class="fa fa-envelope-o"></span><a href="mailto:info@aaa-green-africa.org">info@aaa-green-africa.org </a>
+
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+</section>
+<!--//top-header-content-->
+
+<!--w3l-banner-slider-main-->
+<section class="w3l-banner-slider-main">
+
+	<div class="bannerhny-content">
+		<header class="top-headerhny">
+			
+			<nav class="navbar navbar-expand-lg navbar-light fill">
+				<div class="container-fluid">
+					<!-- if logo is image enable this   -->
+						<a class="navbar-brand" href="index.html">
+							<img src="assets/image/logo.gif" alt="AAA African Afforestation Association e.V." title="AAA African Afforestation Association e.V." style="height:100px;" />
+						</a>
+					<a class="navbar-brand" href="index.html">
+						<label class="lohny"></span></label></a> 
+					
+						<!-- if logo is image enable this  ---> 
+					<button class="navbar-toggler" type="button" data-toggle="collapse"
+						data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+						aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button> 
+
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav mx-lg-auto ml-auto">
+							<li class="nav-item active">
+								<a class="nav-link" href="index.html">Home</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="about.html">Über AAA</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="team.html">Unser Team</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="project.html">Projekte</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="membership.html">Mitgliedschaft</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="contact.html">Kontakt</a>
+							</li>
+							
+						</ul>
+
+					</div>
+					<!--/form-->
+					<a class="d-flex searchhny-form"  href="spenden.html"><button type="submit"><span class="fa fas-hands-helping" aria-hidden="true"></span>Jetzt Spenden</button></a>
+					<!--//form end-->
+				</div>
+			</nav>
+			<!--//nav-->
+		</header>
+
+		<!--/banner-slider-->
+		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+			<!--/form-->
+			<ol class="carousel-indicators">
+				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+				<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+			</ol>
+			<!--/form end-->
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<div class="container">
+						<div class="carousel-caption">
+
+							<h3>BÄUME IN AFRIKA ZU PFLANZEN</h3>
+							<p>Entwicklungshilfe ganz praktisch</p>
+							<!--/form-->
+							<div class="button-4 mx-auto">
+								<div class="eff-4"></div>
+								<a href="spenden.html"> HELFEN SIE UNS </a>
+							  </div>
+							  <!--/form end-->
+							
+						</div>
+					</div>
+				</div>
+				<!--/form-->
+				<div class="carousel-item item2">
+					<div class="container">
+						<div class="carousel-caption">
+							<h3>DIREKT AN DER WURZEL</h3>
+							<p>Wir packen das Problem Klimawandel</p>
+							<div class="button-4 mx-auto">
+								<div class="eff-4"></div>
+								<a href="spenden.html">HELFEN SIE UNS</a>
+							  </div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="carousel-item item3">
+					<div class="container">
+						<div class="carousel-caption">
+							<h3>LET'S GREEN AFRICA</h3>
+							<h2>BÄUME VERÄNDERN DIE WELT</h2>
+							<p>Effektive Umweltprojekte mit der genialen "Waterboxx"</p>
+							<div class="button-4 mx-auto">
+								<div class="eff-4"></div>
+								<a href="spenden.html">HELFEN SIE UNS</a>
+							  </div>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item item4">
+					<div class="container">
+						<div class="carousel-caption">
+							<h3>AUFFORSTUNGSPROGRAMM IN AFRIKA</h3>
+							<p>Hilfe gegen globale Erwärmung und Arbeitslosigkeit</p>
+							<div class="button-4 mx-auto">
+								<div class="eff-4"></div>
+								<a href="spenden.html">HELFEN SIE UNS</a>
+							  </div>
+						</div>
+					</div>
+				</div>
+				<!--//form end-->
+			</div>
+			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+
+	</div>
+	<!--//banner-slider-->
+
+</section>
+<!-- //w3l-banner-slider-main -->
+<section class="w3l-content-6">
+	<!-- /content-6-section -->
+	<div class="content-6-mian py-5">
+		<div class="container py-lg-5">
+
+			<div class="row title-content">
+				<div class="col-lg-4 title-left">
+					<h3 class="hny-title"> WIR PFLANZEN BÄUME IN AFRIKA…</h3>
+					<h2 class="hny-title"> …UND ZWAR MIT KONZEPT!</h2>
+				</div>
+				<div class="col-lg-8 title-info">
+					<p class="hny-title"> AAA African Afforestation Association e.V. in Düsseldorf gibt es schon seit 2012. Unsere Mission: Bäume pflanzen in Afrika. Wir forsten Gebiete wieder auf, die durch den Klimawandel ihre Wälder verloren haben. Wir setzen dazu eine erschwingliche und nachhaltige Technologie – die „Waterboxx“ – ein, um Bäume in kargen und versteppten Landschaften zu pflanzen. Das hilft nicht nur der Umwelt, sondern schafft auch Arbeitsplätze vor Ort. Helfen Sie uns und <a class="hny-title" href="spenden.html">spenden</a> Sie für unsere <a class="hny-title" href="project.html">Projekte</a>!.</p>
+				</div>
+			</div>
+			<!-- /content-6-section --
+			<div class="content-info-in row mt-md-5 mt-4">
+				<div class="col-lg-3 col-md-6 imghrs">
+					<a class="imghr" href="#"><img src="assets/images/a.jpg" class="img-fluid" alt="">
+						<div class="details"><span class="title">THE VIM AFRICA</span><span class="info">Add Description</span></div>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-6 imghrs">
+					<a class="imghr" href="#"><img src="assets/images/c.jpg" class="img-fluid" alt="">
+						<div class="details"><span class="title">MINISTRY TRAINING COLLEGE</span><span class="info">Add Description</span></div>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-6 imghrs">
+					<a class="imghr" href="#"><img src="assets/images/b.jpg" class="img-fluid" alt="">
+						<div class="details"><span class="title">THE VICTORY INTERNATIONAL FOUNDATION</span><span class="info">Add Description</span></div>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-6 imghrs">
+					<a class="imghr" href="#"><img src="assets/images/d.jpg" class="img-fluid" alt="">
+						<div class="details"><span class="title">THE VICTORY INTERNATIONAL LEGACY CENTRES</span><span class="info">Add Description</span></div>
+					</a>
+				</div>
+			</div>
+			!-- /content-6-section -->
+		</div>
+	</div>
+</section>
+<!-- //content-6-section -->
+
+<section class="w3l-wecome-content-6">
+	<!-- /content-6-section -->
+	  <div class="ab-content-6-mian py-5">
+			 <div class="container py-lg-5">
+					<div class="welcome-grids row">
+							<div class="col-lg-6 mb-lg-0 mb-5">
+								<h3 class="hny-title">NELSON MANDELA GREEN AFRICA LEGACY</h3>
+								<p class="my-4">Die in Europa ansässigen Organisationen African Afforestation Association.e.V www.aaa-green-africa.org und Meedoen/Himi https://www.himi.nI/meedoen schlagen vor, die Möglichkeit zu bieten, kleine bis große Geldbeträge in Nelson zu investieren Mandela Green Africa Wiederaufforstungsprojekt.</p>
+								<div class="button-4-pink">
+									<div class="eff-4-pink"></div>
+									<a href="project_nelson_mandela.html"> MEHR ÜBER UNSERE PROJEKTE </a>
+								  </div>
+								  <div class="button-3-pink">
+									<div class="eff-4-pink"></div>
+									<a href="spenden.html">FÜR DAS PROJEKT SPENDEN</a>
+								  </div>
+
+							</div>
+							<div class="col-lg-6 welcome-image">
+								<img src="assets/image/mandela.jpg" class="img-fluid" alt="nelson-mandela-green-africa-legacy" />
+							</div>	
+						
+						</div>	
+				 
+				 </div>
+			 </div>
+	 </section>
+<section class="w3l-features-1">
+	<!-- /features-1-->
+	<div class="features-1-mian py-5">
+		<div class="container py-lg-5">
+			<!-- /title-->
+			<div class="row title-content">
+				<div class="col-lg-4 title-left">
+					<h3 class="hny-title">Die zündende Idee</h3>
+				</div>
+				<div class="col-lg-8 title-info">
+					<p>Im Jahr 2008 traf ich Dr. Esiamah, einen Forstwissenschaftler in Deutschland, der mich mit Pieter Hoff, dem Gründer der Groasis Academy in Holland, bekannt machte. Von Februar 2009 bis Januar 2011 war ich eingeschrieben, um die Waterboxx-Technologie zu studieren, eine neue wissenschaftliche Methode, um Obstbäume zu pflanzen und Nutzpflanzen in trockenen Gebieten anzubauen. Diese Technologie kommt ohne Bewässerung aus; die Überlebensrate der angepflanzten Bäume und Feldfrüchte liegt bei etwa 90 Prozent!</p>
+				</div>
+			</div>
+			<!-- //title-->
+			<!-- /grids-->
+			<div class="row grids-innf my-lg-5">
+				<div class="features-1-info col-lg-3 col-md-6">
+					<div class="features-1-info-icon">
+						<span class="fa fa-user"></span>
+					</div>
+					<div class="features-1-info-info">
+						<h6><a href="#">Unsere Mission</a></h6>
+						<p>Wer Bäume pflanzt, schaut in die Zukunft. Wir wollen für die Menschen in Afrika Perspektiven schaffen. Dazu gehört auch der Kampf gegen die globale Erwärmung. Wir packen das an, indem wir gemeinsam Gebiete wiederaufforsten und die Menschen vor Ort in Arbeit bringen.
+						</br>
+						<a class="hny-title" href="about.html">WEITER LESEN</a>
+						</p>
+					</div>
+
+				</div>
+				<div class="features-1-info col-lg-3 col-md-6">
+					<div class="features-1-info-icon">
+						<span class="fa fa-book"></span>
+					</div>
+					<div class="features-1-info-info">
+						<h6><a href="#">Unsere Vision</a></h6>
+						<p>Wir wollen die Welt verändern! Bis 2031 haben wir uns zum Ziel gesetzt:</br>
+						- 10.000 Jugendliche rekrutieren, um bis 2031 2,5 Millionen Obstbäume und Bäume zu pflanzen</br>
+						- Aufbau der Waterboxx-Produktion in Ghana, um andere afrikanische Länder zu beliefern und die Wiederaufforstungsprojekte voranzutreiben</br>
+						<a class="hny-title" href="about.html">WEITER LESEN</a>
+					</p>
+					</div>
+
+				</div>
+				<div class="features-1-info col-lg-3 col-md-6">
+					<div class="features-1-info-icon">
+						<span class="fa fa-thumbs-o-up"></span>
+					</div>
+					<div class="features-1-info-info">
+						<h6><a href="#">Wichtige Meilensteine</a></h6>
+						<p>	Wir haben den Verein 2012 gegründet und schon viele Erfolge verzeichnen können. Gemeinsam haben wir Krankenhäuser mit neuen Betten und Schulen mit 1500 Computern versorgt. Innerhalb von knapp 8 Jahren hat die AAA-Zentrale in Düsseldorf ihre Niederlassungen in Dänemark, Großbritannien, Ghana, Kenia, Äthiopien, Nigeria und Togo mit 140 Mitgliedern registriert.</br>
+						<a class="hny-title" href="about.html">WEITER LESEN</a> </p>
+					</div>
+
+				</div>
+
+				<div class="features-1-info col-lg-3 col-md-6">
+					<div class="features-1-info-icon">
+						<h2 class="hny-title">Ihre Mithilfe ist gefragt!</h2>
+					</div>
+					<div class="features-1-info-info">
+						
+						<p>	Schließen Sie sich unserem Kampf gegen die globale Erwärmung und für mehr Lebensqualität in Afrika an: Unsere Leidenschaft für Umweltschutz und humanitäre Hilfe wird noch sehr vieles bewegen! Baum für Baum sorgen wir dafür, dass Menschen wieder eine Perspektive bekommen. Wir packen das Problem an der Wurzel.</p>
+					</div>
+
+					<div class="button-2-pink">
+						<div class="eff-4-pink"></div>
+						<a href="spenden.html">JETZT SPENDEN!</a>
+					  </div>
+
+				</div>
+
+			</div>
+			</div>
+			<!-- //grids-->
+			<!-- /counter-->
+			<div class="counter-main-sec">
+				<div class="counter-grids-info">
+					<div class="counter-gd">
+						<h6>2312</h6>
+						<h4>BÄUME GEPFLANZT</h4>
+					</div>
+					<div class="counter-gd">
+						<h6>37</h6>
+						<h4>PROJEKTE WELTWEIT</h4>
+					</div>
+					<div class="counter-gd">
+						<h6>3826</h6>
+						<h4> QM FLÄCHE BEGRÜNT</h4>
+					</div>
+					
+				</div>
+			</div>
+			<!-- //counter-->
+		</div>
+	</div>
+	</div>
+</section>
+<!-- //features-1-->
+<section class="w3l-video-main">
+	<!-- /video-6-->
+	<div class="video-66-info">
+		<div class="container-fluid">
+			<div class="video-grids-info row">
+				<div class="video-gd-right col-lg-8">
+					<div class="video-inner history-info text-center">
+								<!--popup-->
+								<a href="#small-dialog" class="popup-with-zoom-anim play-view text-center position-absolute">
+									<span class="video-play-icon">
+									  <span class="fa fa-play"></span>
+									</span>
+								  </a>
+					  
+								  <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
+								  <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+									<video src="assets/image/waterbox.mp4" type="video/mp4" alt="Waterboxx-Produktion" width="320" height="240" controls></video>
+								  </div>
+									<!--//popup-->
+					      </div>
+				  </div>
+				<div class="video-gd-left col-lg-4 p-lg-5 p-4">
+					<div class="p-xl-4 p-0 video-wrap">
+						<h3 class="hny-title text-left">
+							Mafi Anfoe, Ghana </h3>
+						<p>Unser Pilotprojekt in Mafi-Anfoe war ein voller Erfolg!</p>
+						<div class="button-2-pink">
+							<div class="eff-4-pink"></div>
+							<a href="project_mafi.html"> WEITER LESEN</a>
+						  </div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+<!-- //video-6-->
+<!-- portfolio -->
+
+<section class="w3-gallery">
+	<div class="porfolio-inf py-5">
+		<div class="container pt-lg-5 pb-lg-4">
+			<div class="row title-content">
+				<div class="col-lg-4 title-left">
+					<h3 class="hny-title">AKTUELLE PROJEKTE</h3>
+					<h2 class="hny-title">Unsere Mission: Bäume pflanzen in Afrika</h2>
+				</div>
+				<div class="col-lg-8 title-info">
+					<p>Wir wollen für die Menschen in Afrika eine bessere Zukunft erreichen. Wir bauen Häuser, fördern die Jugend und schaffen Lebensgrundlagen für die Menschen in Afrika. Lesen Sie hier mehr über unsere Wiederaufforstungs- und sonstige Projekte.</p>
+					<div class="button-1-pink">
+						<div class="eff-4-pink"></div>
+						<a href="project.html">ALLE PROJEKTE!</a>
+					  </div>
+				</div>
+			</div>
+			<div class="port-text-cards text-left mt-5 mb-3">
+				<button class="btn active filter-button" data-filter="all">All</button>
+				<button class="btn filter-button" data-filter="photo"></button>
+				<button class="btn filter-button" data-filter="graphic"></button>
+				<button class="btn filter-button" data-filter="webdesign"></button>
+			</div>
+			<br />
+
+			<div class="row">
+				<div class="col-md-3 filter photo">
+					<div class="each-item">
+						<a href="#"><img class="port-image img-fuild" src="assets/image/mandela.jpg" alt="" width="240" height="180" /></a>
+
+					</div>
+					<div class="course-content">
+						<div class="course-info">
+							<h6><a class="course-instructor" href="#"></a></h6>
+							<a href="#" class="course-titlegulp-wrapper">
+								<h3 class="course-title" data-gal="prettyPhoto[gallery]">NELSON MANDELA GREEN AFRICA LEGACY</h3>
+								<p>Investieren Sie kleine bis große Geldbeträge in das Nelson Mandela Green Africa Re-Afforestation-Projekt.</p>
+							</a>
+							</br>
+						</div>
+						<div class="course-divider">
+							<div class="button-2-pink">
+						<div class="eff-4-pink"></div>
+						<a href="project.html">MEHR ERFAHREN!</a>
+					  </div>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-3 filter graphic photo">
+					<div class="each-item">
+						<a href="https://aaa-green-africa.org/service/projekt-in-lawre-ghana-2022/"><img class="port-image img-fuild" src="assets/image/lawra.jpg" alt="" width="240" height="180" /></a>
+
+					</div>
+					<div class="course-content">
+						<div class="course-info">
+							<h6><a class="course-instructor" href="#"></a></h6>
+							<a href="project_lawra1.html" class="course-title-wrapper">
+								<h3 class="course-title" data-gal="prettyPhoto[gallery]">PROJEKT IN LAWRA, GHANA, OKTOBER 2022</h3>
+								<p>Die Böden in Ghana sind grobkörnig und bestehen überwiegend aus verwittertem Granitgestein.</p>
+							</br>
+							</a>
+						</div>
+					<div class="course-divider">
+					  <div class="button-2-pink">
+						<div class="eff-4-pink"></div>
+						<a href="project.html">MEHR ERFAHREN!</a>
+					  </div>
+					</div>
+					</div>
+				</div>
+
+				<div class="col-md-3 filter webdesign">
+					<div class="each-item">
+						<a href="#"><img class="port-image img-fuild" src="assets/image/promafi.jpg" alt="Mafi projekte" width="240" height="180" /></a>
+					</div>
+					<div class="course-content">
+						<div class="course-info">
+							<h6><a class="course-instructor" href="#"></a></h6>
+							
+							<a href="project.html" class="course-title-wrapper">
+								<h3 class="course-title" data-gal="prettyPhoto[gallery]">PILOTPROJEKT IN MAFI ANFOE, GHANA, 2017 </h3>
+								<p>Dies richtet sich gezielt an die arbeitslosen Landwirte; Schulabbrecher-Jugendliche, benachteiligte Frauen in Ghana.</p>
+							</a>
+						</div>
+						<div class="course-divider">
+							<div class="button-2-pink">
+								<div class="eff-4-pink"></div>
+								<a href="project.html">MEHR ERFAHREN!</a>
+							  	</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-3 filter graphic photo">
+					<div class="each-item">
+						<a href="#"><img class="port-image img-fuild" src="assets/image/kiosk.jpg" alt="" width="240" height="180" /></a>
+					</div>
+					<div class="course-content">
+						<div class="course-info">
+							<h6><a class="course-instructor" href="project_kiosks.html"></a></h6>
+							<h3 class="course-title" data-gal="prettyPhoto[gallery]">GEPLANT BAU EINES KIOSKS</h3>
+						</br>
+							<a href="#" class="course-title-wrapper">
+								<p>Mit dem Verkauf der Waren werden die Mitarbeiter bezahlt und es wird neue Ware eingekauft. Spenden Sie gerne.</p>
+							</a>
+						</div>
+						<div class="course-divider">
+							<div class="button-2-pink">
+						<div class="eff-4-pink"></div>
+						<a href="project.html">MEHR ERFAHREN!</a>
+					  	</div>
+						</div>
+					</div>
+				</div>
+
+				</div>
+			  </div>
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- //gallery container -->
+
+
+<!-- //portfolio --
+<section class="w3l-apply-6">
+	<!-- /apply-6--
+	<div class="apply-info py-5">
+		<div class="container py-lg-5">
+			<div class="apply-grids-info row">
+				<div class="apply-gd-left col-lg-7">
+						<label>Welcome to DIA</label>
+						<h4>Apply for Admission</h4>
+						<p class="para-apply">It’s limited seating! Hurry up. Get the Coaching Training for Free</p>
+					<div class="row mt-lg-5 mt-4">
+						<div class="col-md-6 sub-apply mt-4">
+								<div class="apply-sec-info">
+										<div class="appyl-sub-icon">
+											<span class="fa fa-line-chart"></span>
+										</div>
+										<div class="appyl-sub-icon-info">
+												<h5><a href="#">Empower Teachers</a></h5>
+											<p>Lorem ipsum dolor sit amet,Ea consequuntur.</p>
+										</div>
+					
+									</div>
+
+						</div>
+						<div class="col-md-6 sub-apply mt-4">
+								<div class="apply-sec-info">
+										<div class="appyl-sub-icon">
+											<span class="fa fa-clock-o"></span>
+										</div>
+										<div class="appyl-sub-icon-info">
+												<h5><a href="#">Lifetime access</a></h5>
+											<p>Lorem ipsum dolor sit amet,Ea consequuntur.</p>
+										</div>
+					
+									</div>
+						</div>
+					</div>
+				</div>
+				<div class="apply-gd-right col-lg-5 mt-lg-0 mt-5">
+	
+					<div class="apply-form p-md-5 p-4 mx-auto bg-white mw-100">
+						<form action="#" method="post">
+							<div class="form-group">
+								<label>First name</label>
+
+								<input type="text" class="form-control" id="validationDefault01" placeholder=""
+									required="">
+							</div>
+							<div class="form-group">
+								<label>Last name</label>
+								<input type="text" class="form-control" id="validationDefault02" placeholder=""
+									required="">
+							</div>
+
+							<div class="form-group mb-4">
+								<label class="mb-2">Password</label>
+								<input type="password" class="form-control" id="password1" placeholder="" required="">
+							</div>
+
+							<button type="submit" class="btn btn-primary submit">Apply Now</button>
+
+						</form>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- //apply-6-->
+
+<section class="w3l-customers-6">
+	<!--/customers -->
+	<div class="customers-6-infhny py-5">
+		<div class="container py-lg-5">
+
+				<div class="row title-content mb-5">
+						<div class="col-lg-4 title-left">
+							<h3 class="hny-title">DIESE FIRMEN KOOPERIEREN MIT UNS:</h3>
+						</div>
+						<div class="col-lg-8 title-info">
+					
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						<!-- Carousel indicators -->
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="2"></li>
+						</ol>   
+						<!-- Wrapper for carousel items -->
+						<div class="carousel-inner">		
+							<div class="item carousel-item active">
+								<div class="img-box"><img src="assets/image/logo_service_konzept-1.gif" alt="logo_service_konzept-1"></div>
+								<p class="overview"><b>SERVICE CONCEPT</b><a href="https://service-concept.eu/"></a></p>
+								<p class="testimonial">Die Basis für unseren Erfolg und die Stärke der SERVICE CONCEPT Heilmann und Partner GmbH liegt im Vertrauen und in der Loyalität, die durch jede einzelne Mitarbeiterin und jeden einzelnen Mitarbeiter, der Geschäftsleitung und langjährigen Geschäftspartnern Tag für Tag gelebt wird.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/logo_engagement_global-1.jpg" alt="Engagement Global"></div>
+								<p class="overview"><b>Engagement Global</b><a href="https://www.engagement-global.de/"></a></p>
+								<p class="testimonial">The mission of the German non-profit limited organisation Engagement Global – Service für Entwicklungsinitiativen (Service for Development Initiatives) – is to support and strengthen the developmental commitment of the civil society.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/Groasis-nieuwsbrief-logo-1.jpg" alt="Groasis"></div>
+								<p class="overview"><b>Groasis</b><a href="https://www.groasis.com/"></a></p>
+								<p class="testimonial">Groasis is known for her unique Triple 90 Benefits. While you plant with our technology, you will always plant 90% cheaper than traditional irrigation methods (like drip irrigation), use 90% less water and you will achieve a survival rate of +90%!</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-half-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/SESLogo.jpg" alt="Senior Experten Service (SES)"></div>
+								<p class="overview"><b>Senior Experten Service (SES)</b><a href="https://www.ses-bonn.de/"></a></p>
+								<p class="testimonial">Der SES ist als Stiftung der Deutschen Wirtschaft für internationale Zusammenarbeit weltweit tätig. Seine ehrenamtlichen Einsätze finden in erster Linie in Entwicklungs- und Schwellenländern und in Deutschland statt.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-half-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/cim-logo.gif" alt="Centrum für internationale Migration und Entwicklung (CIM)"></div>
+								<p class="overview"><b>Centrum für internationale Migration und Entwicklung (CIM)</b><a href="https://www.cimonline.de/de/html/index.html/"></a></p>
+								<p class="testimonial"> Vom Expertenwissen des SES profitieren im In- und Ausland Unter der Marke CIM vermittelt die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH seit 1980 aus der Europäischen Union (EU) und EFTA-Ländern kommende Fachkräfte in Entwicklungs- und Schwellenländer.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-half-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/logo_kuba.jpg" alt="kubalounge"></div>
+								<p class="overview"><b>kubalounge</b><a href="https://www.kubalounge.com/"></a></p>
+								<p class="testimonial"> Wir bieten Ihnen individuelle Kommunikationslösungen in den Bereichen Grafikdesign und Webdesign. Die Kuba Lounge steht für ein edles und anspruchsvolles Design. Bei der Gestaltung von Logos, Broschüren und Internetauftritten stehen höchste Designqualität und Kundenzufriedenheit im Vordergrund.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-half-o"></span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="item carousel-item">
+								<div class="img-box"><img src="assets/image/nedlin_logo.jpg" alt="Nedlin"></div>
+								<p class="overview"><b>Nedlin</b><a href="https://www.nedlin.com/de/"></a></p>
+								<p class="testimonial"> Bei uns dreht sich alles um Wäsche</br>
+									Wir sind Nedlin. Bei uns dreht sich alles um Wäsche. Wir haben das Ziel, jeden Tag besser zu werden. Besser, weil wir wissen, dass dies möglich ist und weil wir denken, dass dies auch notwendig ist. Besser für unsere Kunden, unsere Mitarbeiter und unsere Umwelt.</p>
+								
+								<div class="star-rating">
+									<ul class="list-inline">
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star"></span></li>
+										<li class="list-inline-item"><span class="fa fa-star-half-o"></span></li>
+									</ul>
+								</div>
+							</div>						
+						</div>
+						<!-- Carousel controls -->
+						<a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+							<span class="fa fa-angle-left"></span>
+						</a>
+						<a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+							<span class="fa fa-angle-right"></span>
+						</a>
+					</div>
+				</div>
+			  </div>
+		  </div>
+		<!--//customers -->
+	</div>
+</section>
+<!-- //customers-6-->
+
+<!-- footer -->
+<section class="w3l-footer-16">
+    <div class="w3l-footer-16-main py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 column">
+                    <div class="row">
+                        <div class="col-md-8 column">
+
+                                <img class="rounded img-fluid img-responsive" src="assets/image/logo2.png" alt="image" style="height:80px";>
+                           
+                            <div class="ad-text-inf">
+                                <p><span class="color-hny">Gneisenaustr. 51, 40477 Düsseldorf, </span> Germany</p>
+                             </div>
+                             <div class="ad-text-inf">
+                                    <p><span class="color-hny">Email :</span> <a href="mailto:info@aaa-green-africa.org">info@aaa-green-africa.org</a></p>
+                                 </div>
+                                 <div class="ad-text-inf">
+                                        <p><span class="color-hny">Phone :</span> <a href="tel:+49 (0) 211 - 977 142 76">+49 (0) 211 - 977 142 76
+										</a></p>
+                                     </div>
+                        </div>
+                        <div class="col-md-4 column">
+                            <h3>UNSERE PROJEKTE</h3>
+                            <ul class="footer-gd-16">
+                                <li><a href="index.html">Unsere Projekte in Afrika</a></li>
+                                <li><a href="#">Waterboxx – für kostengünstige und effektive</a></li>
+								<li><a href="#">Pflanzungen</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 column column3 mt-lg-0 mt-4">
+                    <h3>News</h3>
+                    <ul class="list-unstyled d-flex flex-wrap">
+                        <li class="">
+                            <div class="row">
+                                <a class="col-md-5 col-4" href="#">
+                                    <img class="rounded img-fluid img-responsive" src="assets/image/fo1.png" alt="image">
+                                </a>
+                                <div class="col pl-0">
+                                    <a class="footer-small-text" href="">Lufthansa Düsseldorf spendet Büromaterial an AAA</a>
+                                    <div class="text-sub-small">28. May 2021</div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="mt-md-0 mt-2">
+                            <div class="row my-2 my-md-3">
+                                <a class="col-md-5 col-4" href="#">
+                                    <img class="rounded img-fluid img-responsive" src="assets/image/fo2.png"
+                                        alt="image">
+                                </a>
+                                <div class="col pl-0">
+                                    <a class="footer-small-text" href="#">Neue Kooperation mit Green Energy für Solarmodule</a>
+                                    <div class="text-sub-small">14. May 2021</div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6 column column4 mt-lg-0 mt-4">
+                    <h3>Newsletter </h3>
+                    <div class="end-column">
+                        <h4>Subscribe Here Now</h4>
+                        <form action="#" class="subscribe" method="post">
+                            <input type="email" name="email" placeholder="Email Address" required="">
+                            <button><span class="fa fa-paper-plane" aria-hidden="true"></span></button>
+                        </form>
+                        <p>Subscribe to our mailing list and get updates to your email inbox.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex below-section justify-content-between align-items-center pt-4 mt-5">
+                <div class="columns text-lg-left text-center">
+                    <p>© 2020 Eduline. All rights reserved. Design by <a href="https://w3layouts.com/" target="_blank">
+                            W3Layouts</a>
+                    </p>
+                </div>
+                <div class="columns-2 mt-md-0 mt-3">
+                    <ul class="social">
+                        <li><a href="#facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a>
+                        </li>
+                        <li><a href="#linkedin"><span class="fa fa-linkedin" aria-hidden="true"></span></a>
+                        </li>
+                        <li><a href="#twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a>
+                        </li>
+                        <li><a href="#google"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
+                        </li>
+                        <li><a href="#github"><span class="fa fa-github" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- move top -->
+    <button onclick="topFunction()" id="movetop" title="Go to top">
+        <span class="fa fa-angle-up"></span>
+    </button>
+    <script>
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function () {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("movetop").style.display = "block";
+            } else {
+                document.getElementById("movetop").style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+    <!-- //move top -->
+    <script>
+        $(function () {
+            $('.navbar-toggler').click(function () {
+                $('body').toggleClass('noscroll');
+            })
+        });
+    </script>
+</section>
+<!-- //footer -->
+</body>
+
+</html>
+
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<!-- disable body scroll which navbar is in active -->
+<script>
+  $(function () {
+    $('.navbar-toggler').click(function () {
+      $('body').toggleClass('noscroll');
+    })
+  });
+</script>
+<!--/filter-->
+<script>
+  $(document).ready(function () {
+
+    $(".filter-button").click(function () {
+      var value = $(this).attr('data-filter');
+
+      if (value == "all") {
+        //$('.filter').removeClass('hidden');
+        $('.filter').show('1000');
+      } else {
+        //            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+        //            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+        $(".filter").not('.' + value).hide('3000');
+        $('.filter').filter('.' + value).show('3000');
+
+      }
+    });
+
+  });
+</script>
+<!--//filter-->
+<!--pop-up-box-->
+
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('.popup-with-zoom-anim').magnificPopup({
+      type: 'inline',
+
+      fixedContentPos: false,
+      fixedBgPos: true,
+
+      overflowY: 'auto',
+
+      closeBtnInside: true,
+      preloader: false,
+
+      midClick: true,
+      removalDelay: 300,
+      mainClass: 'my-mfp-zoom-in'
+    });
+
+    $('.popup-with-move-anim').magnificPopup({
+      type: 'inline',
+
+      fixedContentPos: false,
+      fixedBgPos: true,
+
+      overflowY: 'auto',
+
+      closeBtnInside: true,
+      preloader: false,
+
+      midClick: true,
+      removalDelay: 300,
+      mainClass: 'my-mfp-slide-bottom'
+    });
+  });
+</script>
+
+<!--//pop-up-box-->
+<script src="assets/js/bootstrap.min.js"></script>
